@@ -7,8 +7,8 @@ import "./App.css";
 function App() {
   return (
     <Test1/>
+    // <Test2/>
   );
-  return <div className="App">hi</div>;
 }
 
 export default App;
